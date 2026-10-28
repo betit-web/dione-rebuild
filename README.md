@@ -8,6 +8,10 @@ Recréation non commerciale de la carte Mt Dione de *Ring of Elysium* (moteur Go
 
 **[DioneLauncher.exe](https://github.com/betit-web/dione-rebuild/releases/latest/download/DioneLauncher.exe)** — Windows 10/11 64 bits, ~130 Ko.
 
+## Communauté
+
+Discord : https://discord.gg/BJjg4VJUy
+
 ## Il te faut
 
 - **Ring of Elysium installé dans ta bibliothèque Steam.** Aucun fichier du jeu n'est distribué ici : les données sont extraites sur ton PC depuis ta propre copie (lecture seule, rien n'y est modifié).
