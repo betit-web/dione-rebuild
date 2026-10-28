@@ -1,0 +1,39 @@
+{
+  "format": 1,
+  "liens": {
+    "discord": "",
+    "github": "https://github.com/betit-web/dione-rebuild"
+  },
+  "actus": [
+    {
+      "id": "v020",
+      "titre": "Version 0.2.0",
+      "sous_titre": "Nouveau launcher",
+      "couleur": "#E8B02C",
+      "texte": "Actualités, vérification et réparation des fichiers, reprise des téléchargements et connexion en un clic.",
+      "image": "news/v020.png",
+      "lien": "https://github.com/betit-web/dione-rebuild/releases/latest",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "duo",
+      "titre": "Duo avec un ami",
+      "sous_titre": "Jouez à deux",
+      "couleur": "#6EB0EC",
+      "texte": "Ajoute un ami avec son identifiant DN-XXXX-XXXX, invite-le dans ton groupe et lancez la partie ensemble.",
+      "image": "news/duo.png",
+      "lien": "",
+      "date": "2026-10-28"
+    },
+    {
+      "id": "fans",
+      "titre": "Projet de fans",
+      "sous_titre": "Non officiel",
+      "couleur": "#F06E5A",
+      "texte": "Non affilié aux éditeurs de Ring of Elysium. Il faut ta propre copie Steam : les données sont extraites sur ton PC.",
+      "image": "news/fans.png",
+      "lien": "https://github.com/betit-web/dione-rebuild#readme",
+      "date": "2026-10-28"
+    }
+  ]
+}
