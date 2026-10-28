@@ -6,34 +6,72 @@
   },
   "actus": [
     {
+      "id": "v030",
+      "titre": "Version 0.3.0",
+      "sous_titre": "English by default",
+      "couleur": "#6EB0EC",
+      "texte": "The launcher now speaks English by default. Pick your language in Settings: it switches instantly and the game uses it too.",
+      "image": "news/v030.png",
+      "lien": "https://github.com/betit-web/dione-rebuild/releases/latest",
+      "date": "2026-10-28",
+      "trad": {
+        "fr": {
+          "titre": "Version 0.3.0",
+          "sous_titre": "Anglais par défaut",
+          "texte": "Le launcher parle anglais par défaut. Choisis ta langue dans les paramètres : elle s'applique tout de suite, au jeu aussi."
+        }
+      }
+    },
+    {
       "id": "v020",
       "titre": "Version 0.2.0",
-      "sous_titre": "Nouveau launcher",
+      "sous_titre": "New launcher",
       "couleur": "#E8B02C",
-      "texte": "Actualités, vérification et réparation des fichiers, reprise des téléchargements et connexion en un clic.",
+      "texte": "News, file checks and repairs, downloads that pick up where they left off, and one-click sign-in.",
       "image": "news/v020.png",
       "lien": "https://github.com/betit-web/dione-rebuild/releases/latest",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "trad": {
+        "fr": {
+          "titre": "Version 0.2.0",
+          "sous_titre": "Nouveau launcher",
+          "texte": "Actualités, vérification et réparation des fichiers, reprise des téléchargements et connexion en un clic."
+        }
+      }
     },
     {
       "id": "duo",
-      "titre": "Duo avec un ami",
-      "sous_titre": "Jouez à deux",
+      "titre": "Duo with a friend",
+      "sous_titre": "Play together",
       "couleur": "#6EB0EC",
-      "texte": "Ajoute un ami avec son identifiant DN-XXXX-XXXX, invite-le dans ton groupe et lancez la partie ensemble.",
+      "texte": "Add a friend with their DN-XXXX-XXXX ID, invite them to your party and start the match together.",
       "image": "news/duo.png",
       "lien": "",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "trad": {
+        "fr": {
+          "titre": "Duo avec un ami",
+          "sous_titre": "Jouez à deux",
+          "texte": "Ajoute un ami avec son identifiant DN-XXXX-XXXX, invite-le dans ton groupe et lancez la partie ensemble."
+        }
+      }
     },
     {
       "id": "fans",
-      "titre": "Projet de fans",
-      "sous_titre": "Non officiel",
+      "titre": "Fan project",
+      "sous_titre": "Unofficial",
       "couleur": "#F06E5A",
-      "texte": "Non affilié aux éditeurs de Ring of Elysium. Il faut ta propre copie Steam : les données sont extraites sur ton PC.",
+      "texte": "Not affiliated with the publishers of Ring of Elysium. You need your own Steam copy: the data is extracted on your PC.",
       "image": "news/fans.png",
       "lien": "https://github.com/betit-web/dione-rebuild#readme",
-      "date": "2026-10-28"
+      "date": "2026-10-28",
+      "trad": {
+        "fr": {
+          "titre": "Projet de fans",
+          "sous_titre": "Non officiel",
+          "texte": "Non affilié aux éditeurs de Ring of Elysium. Il faut ta propre copie Steam : les données sont extraites sur ton PC."
+        }
+      }
     }
   ]
 }
