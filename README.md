@@ -10,7 +10,7 @@ A non-commercial recreation of the Mt Dione map from *Ring of Elysium*, built wi
 
 ## Community
 
-Discord: https://discord.gg/BJjg4VJUy
+Discord: https://discord.gg/sMjWmdjXA2
 
 ## Requirements
 
